@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="366" height="63" viewBox="0 0 366 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f5f1;
+        font-size: 16px;
+        font-family: Futura-Bold, Futura;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #f4f4f4;
+        font-size: 37px;
+        font-family: BodoniURW-Bol, Bodoni URW;
+        font-weight: 400;
+      }
+    </style>
+  </defs>
+  <text id="Lets_get_creating_Awesome_Things_" data-name="Lets get creating
+Awesome Things!" class="cls-1" transform="translate(1)"><tspan x="0" y="17">LETS GET CREATING</tspan><tspan class="cls-2"><tspan x="0" y="51">Awesome Things!</tspan></tspan></text>
+</svg>

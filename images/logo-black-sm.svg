@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="66.827" height="38.928" viewBox="0 0 66.827 38.928">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.097" y1="0.636" x2="0.815" y2="0.445" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.552" stop-color="#2f2f2f"/>
+      <stop offset="1" stop-color="#2f2f2f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_35" data-name="Group 35" transform="translate(-84.553 -172.956)">
+    <path id="Path_2" data-name="Path 2" d="M133.579,183.88l-14.836.372V173.328l26.95-.372Z" transform="translate(-11.814 0)" fill="none"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="9.334" height="6.034" rx="2.106" transform="translate(124.546 205.85)" fill="#2f2f2f"/>
+    <g id="Group_6" data-name="Group 6" transform="translate(112.112 172.956)">
+      <g id="Group_5" data-name="Group 5">
+        <path id="Path_3" data-name="Path 3" d="M146.467,190.156H165.93c0,7.469-1.528,12.789-6.054,16.974-3.958,3.679-8.486,4.754-13.295,4.754-6.792,0-11.43-2.489-14.485-5.6a19.008,19.008,0,0,1-5.433-13.637,19.658,19.658,0,0,1,5.66-14.145c3.11-3.111,7.977-5.544,14.654-5.544A20.176,20.176,0,0,1,157.16,175.5a18.5,18.5,0,0,1,6.734,7.751l-9.336,3.848a9.221,9.221,0,0,0-2.715-3.789,7.906,7.906,0,0,0-5.262-1.867,9.119,9.119,0,0,0-6.452,2.6,12.743,12.743,0,0,0-3.282,8.657,11.806,11.806,0,0,0,3,8.148,8.924,8.924,0,0,0,6.9,2.884,8.075,8.075,0,0,0,5.433-1.754A6.7,6.7,0,0,0,154.5,197.8h-8.032Z" transform="translate(-126.662 -172.956)" fill="#2f2f2f"/>
+      </g>
+    </g>
+    <path id="Path_4" data-name="Path 4" d="M111.721,205.605H97.733l-2.6,6.475H84.553l14.8-38.556h10.925l14.509,38.556H114.092Zm-2.658-7.629-4.336-12.487-4.22,12.487Z" transform="translate(0 -0.196)" fill="#2f2f2f"/>
+    <path id="Path_6" data-name="Path 6" d="M129.547,188.191l1.292,3.234,9.254,24.77h4.985l-13.925-30.763Z" transform="translate(-15.547 -4.311)" fill="url(#linear-gradient)"/>
+    <g id="Group_8" data-name="Group 8" transform="translate(112.112 183.88)">
+      <g id="Group_7" data-name="Group 7">
+        <path id="Path_7" data-name="Path 7" d="M136.846,198.471m1.733,17.805a17.956,17.956,0,0,1-6.484-4.227,19.008,19.008,0,0,1-5.433-13.637,20.681,20.681,0,0,1,1.888-8.765" transform="translate(-126.662 -189.647)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

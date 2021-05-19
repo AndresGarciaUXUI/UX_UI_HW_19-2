@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="102.108" height="59.48" viewBox="0 0 102.108 59.48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.097" y1="0.636" x2="0.815" y2="0.445" gradientUnits="objectBoundingBox">
+      <stop offset="0"/>
+      <stop offset="0.552" stop-color="#2f2f2f"/>
+      <stop offset="1" stop-color="#2f2f2f"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_30" data-name="Group 30" transform="translate(-84.553 -172.956)">
+    <path id="Path_2" data-name="Path 2" d="M141.411,189.647l-22.669.568V173.524l41.179-.568Z" fill="none"/>
+    <rect id="Rectangle_22" data-name="Rectangle 22" width="14.262" height="9.219" rx="2.106" transform="translate(145.66 223.217)" fill="#2f2f2f"/>
+    <g id="Group_6" data-name="Group 6">
+      <g id="Group_5" data-name="Group 5">
+        <path id="Path_3" data-name="Path 3" d="M156.923,199.237h29.738c0,11.413-2.334,19.541-9.251,25.935-6.048,5.622-12.966,7.264-20.314,7.264-10.378,0-17.464-3.8-22.132-8.559a29.043,29.043,0,0,1-8.3-20.837,30.036,30.036,0,0,1,8.648-21.613c4.752-4.753,12.189-8.471,22.39-8.471,5.36,0,11.15,1.211,15.561,3.891A28.26,28.26,0,0,1,183.55,188.69l-14.265,5.879a14.089,14.089,0,0,0-4.149-5.79,12.08,12.08,0,0,0-8.04-2.853,13.933,13.933,0,0,0-9.859,3.975c-3.368,3.373-5.014,8.733-5.014,13.228a18.039,18.039,0,0,0,4.584,12.45,13.636,13.636,0,0,0,10.547,4.406,12.339,12.339,0,0,0,8.3-2.68,10.239,10.239,0,0,0,3.541-6.394H156.923Z" fill="#2f2f2f"/>
+      </g>
+    </g>
+    <path id="Path_4" data-name="Path 4" d="M126.065,222.543H104.691l-3.975,9.893H84.553l22.611-58.912h16.693l22.169,58.912H129.687ZM122,210.886l-6.625-19.08-6.448,19.08Z" fill="#2f2f2f"/>
+    <path id="Path_6" data-name="Path 6" d="M129.547,189.647l1.973,4.941,14.14,37.847h7.616l-21.276-47Z" fill="url(#linear-gradient)"/>
+    <g id="Group_8" data-name="Group 8">
+      <g id="Group_7" data-name="Group 7">
+        <path id="Path_7" data-name="Path 7" d="M142.223,203.129m2.648,27.206a27.436,27.436,0,0,1-9.907-6.458,29.043,29.043,0,0,1-8.3-20.837,31.6,31.6,0,0,1,2.885-13.393" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

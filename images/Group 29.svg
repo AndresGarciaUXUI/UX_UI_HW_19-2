@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48.839" height="56.257" viewBox="0 0 48.839 56.257">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f6f5f1;
+      }
+
+      .cls-2 {
+        fill: #4e4d4d;
+      }
+
+      .cls-3 {
+        filter: url(#Path_28);
+      }
+    </style>
+    <filter id="Path_28" x="0" y="0" width="48.839" height="56.257" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_29" data-name="Group 29" transform="translate(-1044.087 -192.545)">
+    <g id="Group_21" data-name="Group 21" transform="translate(1051.087 198.545)">
+      <g class="cls-3" transform="matrix(1, 0, 0, 1, -7, -6)">
+        <path id="Path_28-2" data-name="Path 28" class="cls-1" d="M1074.114,198.545h-23.027V236.8h30.839V205.295h-7.812Z" transform="translate(-1044.09 -192.55)"/>
+      </g>
+      <path id="Path_29" data-name="Path 29" class="cls-1" d="M1268.941,198.545v5.577h5.564v-.013Z" transform="translate(-1243.667 -198.545)"/>
+    </g>
+    <path id="Path_32" data-name="Path 32" class="cls-1" d="M0,0H25.238V1.613H0Z" transform="translate(1053.887 207.567)"/>
+    <rect id="Rectangle_31" data-name="Rectangle 31" class="cls-2" width="25.238" height="1.613" transform="translate(1053.887 212.878)"/>
+    <rect id="Rectangle_32" data-name="Rectangle 32" class="cls-2" width="25.238" height="1.613" transform="translate(1053.887 218.189)"/>
+    <path id="Path_30" data-name="Path 30" class="cls-2" d="M0,0H25.238V1.613H0Z" transform="translate(1053.887 223.501)"/>
+    <path id="Path_31" data-name="Path 31" class="cls-1" d="M0,0H25.238V1.613H0Z" transform="translate(1053.887 228.812)"/>
+  </g>
+</svg>
