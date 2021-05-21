@@ -8,7 +8,8 @@
 	<title>Andres Garcia</title>
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet"
 		integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
-	<link rel="stylesheet" href="./css/style.css" type="text/css" media="screen, projection">
+		<link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+		<link rel="stylesheet" href="./css/style.css" type="text/css" media="screen, projection">
 	<link rel="stylesheet" href="./css/owl.carousel.min.css"  type="text/css">
 
 	<link rel="preconnect" href="https://fonts.gstatic.com">
@@ -53,12 +54,12 @@
 		<br />
 
 		<!--Start of my work Section-->
-		<div class="featuredProjects">
-			<div class="projectContainer project1">
+		<div class="featuredProjects ">
+			<div class="projectContainer project1 aos-item" data-aos="fade-down">
 
-				<img class="projectImage" src="./images/case_Study-1.jpg"></img>
-				<h1>Aids Walk Atlanta</h1>
-				<p>
+				<img class="projectImage" src="./images/case_Study-1.jpg" id="project1"></img>
+				<h1 class="aos-item" data-aos="fade-down">Aids Walk Atlanta</h1>
+				<p class="aos-item" data-aos="fade-down">
 					AIDS Walk Atlanta is an organization that works to bring
 					attention to the pressing issue of AIDS/HIV in Atlanta.
 					For this I worked with ither UX designers to create a new updated site.
@@ -70,11 +71,11 @@
 
 			</div>
 
-			<div class="projectContainer project2" id="project2">
+			<div class="projectContainer project2 aos-item" data-aos="fade-down" id="project2">
 
 				<img class="projectImage" src="./images/case_Study-2.jpg"></img>
-				<h1 class="js-reveal">U.S. DOE</h1>
-				<p>
+				<h1 class="aos-item" data-aos="fade-down">U.S. DOE</h1>
+				<p class="aos-item" data-aos="fade-down">
 					The Depratment of Energy site had some challenges that requiered a new approach, After performing a
 					detail research study, it was clear that the website needed to be more accessible for regular users.
 				</p>
@@ -83,11 +84,11 @@
 				<br>
 			</div>
 
-			<div class="projectContainer project3" id="project3">
+			<div class="projectContainer project3 aos-item" data-aos="fade-down" id="project3">
 
 				<img class="projectImage" src="./images/case_Study-3.jpg"></img>
-				<h1>eZy Travel App</h1>
-				<p>
+				<h1 class="aos-item" data-aos="fade-down">eZy Travel App</h1>
+				<p class="aos-item" data-aos="fade-down">
 					eZY travel app is designed to take care of the stressfull part of planning your trip, which is
 					packing and agreeing with others on what to do during the trip.
 				</p>
@@ -171,7 +172,10 @@
 
 <script src="./js/script.js"></script>
 
-
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+  AOS.init();
+</script>
 
 
 
